@@ -34,7 +34,7 @@ defmodule OdtPotion.Mixfile do
 
   defp description do
     """
-    Substitute placeholders in PDF's with custom information
+    Substitute placeholders in ODT's with custom information
     """
   end
 
