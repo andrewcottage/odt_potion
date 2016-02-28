@@ -43,7 +43,7 @@ defmodule OdtPotion.Mixfile do
      files: ["lib", "priv", "mix.exs", "README*", "readme*", "LICENSE*", "license*"],
      maintainers: ["Andrew Cottage"],
      licenses: ["Apache 2.0"],
-     links: %{"GitHub" => "https://github.com/ericmj/postgrex",
-              "Docs" => "http://ericmj.github.io/postgrex/"}]
+     links: %{"GitHub" => "https://github.com/andrewcottage/odt_potion",
+              "Docs" => "https://github.com/andrewcottage/odt_potion"}]
   end
 end
