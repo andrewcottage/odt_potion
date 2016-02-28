@@ -2,7 +2,7 @@
 
 ## To use
 
-Add a placeholder to your odt such as [LAST_NAME], and save it.
+Add a placeholder to your odt such as [LAST_NAME] and save it.
 
 Then in your code use
 
