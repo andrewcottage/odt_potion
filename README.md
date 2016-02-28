@@ -1,6 +1,15 @@
 # OdtPotion
 
-**TODO: Add description**
+## To use
+
+Add a placeholder to your odt such as [LAST_NAME], and save it.
+
+Then in your code use
+
+```
+OdtPotion.replace_in_odt("path/to/odt/file.odt", "[LAST_NAME]", "Smith")
+  
+```
 
 ## Installation
 
